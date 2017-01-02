@@ -1,8 +1,8 @@
-## Implimenting machine learning algorithim to recognise written charecter 
+## Hand writting recognition   
 
-You can use the [editor on GitHub](https://github.com/sebastiansuresh/Machine-Learning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In this project I have used the data set provided by scikit learn to train and test my machine learnin algorithim.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
