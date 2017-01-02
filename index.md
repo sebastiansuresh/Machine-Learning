@@ -3,7 +3,7 @@
 In this project I have used the handwritten digits data set provided by scikit learn to train and test my machine learning algorithim. The data sets that are imported will act as training data for the algorithim. Since this is a supervised learing problem the algorithim will use the training data set to classify the different handwritten values.
 I used Python to impliment the machine learning algorithim.
 
-First the difrent modules were imported. S
+First the different modules were imported. 
 ```
 import matplotlib.pyplot as plt
 import numpy
