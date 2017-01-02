@@ -1,7 +1,7 @@
 ## Handwritting recognition   
 
-In this project I have used the handwritten digits data set provided by scikit learn to train and test my machine learning algorithim. The data sets that are imported will act as training data for the algorithim. Since this is a supervised learing problem the algorithim will use the training data set to classify the different handwritten values.
-I used Python to impliment the machine learning algorithim.
+In this project I have used the handwritten digits data set provided by scikit learn to train and test my machine learning algorithm. The data sets that are imported will act as training data for the algorithm. Since this is a supervised learning problem the algorithm will use the training data set to classify the different handwritten values. I used Python to implement the machine learning algorithm.
+
 
 First the different modules were imported. 
 ```
@@ -21,7 +21,7 @@ The following code analyzes the data for classification
 clf = svm.SVC(gamma=0.001, C=100)
  ```
  
- The data is fitted to a model and learns from the model
+The data is fitted to a model and learns from the model
  ```
  clf.fit(x,y)
  ```
@@ -35,7 +35,7 @@ clf = svm.SVC(gamma=0.001, C=100)
  
  ![image](https://github.com/sebastiansuresh/Machine-Learning/blob/master/prediction.png)
  
- From the below image it can be seen that the algorithim was succesfull in learning the various values of the handwritten numbers and predicting the corect number that was inputted.
+From the below image it can be seen that the algorithm was successful in learning the various values of the handwritten numbers and predicting the correct number that was inputted.
  
  ![image] (https://github.com/sebastiansuresh/Machine-Learning/blob/master/Number.png)
 
