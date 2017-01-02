@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Implimenting machine learning algorithim to recognise written charecter 
 
 You can use the [editor on GitHub](https://github.com/sebastiansuresh/Machine-Learning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
