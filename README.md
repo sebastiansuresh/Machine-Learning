@@ -1,4 +1,4 @@
-## Handwritting recognition   
+## Handwritting Recognition   
 
 In this project I have used the handwritten digits data set provided by scikit learn to train and test my machine learning algorithm. The data sets that are imported will act as training data for the algorithm. Since this is a supervised learning problem the algorithm will use the training data set to classify the different handwritten values. I used Python to implement the machine learning algorithm.
 
